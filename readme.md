@@ -4,5 +4,6 @@
 - baseline : 0.3840
 - best_score : 0.5248
 
+solition: [recsys_entrance.ipynb](recsys_entrance.ipynb)
 
 Выдрин С.Д
